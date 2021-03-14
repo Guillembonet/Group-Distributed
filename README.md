@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Group-Distributed
+
+Weekend project for a website which allows creating groups collaborating with other peers using webRTC, all the people can add persons to the full list then when someone computed a random group it is sent to the other peers to all of them see the same outcome.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
