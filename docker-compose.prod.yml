@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  sample-prod:
+    container_name: sample-prod
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    volumes:
+      - '.:/app'
+      - '/app/node_modules'
+      - './build:/app/build'
+    ports:
+      - "1337:80"
