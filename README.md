@@ -1,6 +1,6 @@
 # Group-Distributed
 
-Weekend project for a website which allows creating groups collaborating with other peers using webRTC, all the people can add persons to the full list then when someone computed a random group it is sent to the other peers to all of them see the same outcome.
+Weekend project for a website which allows creating groups collaborating with other peers using webRTC. All the peers can add multiple persons to the full list of people then when someone computes a random group it is sent to the other peers so all of them see the same outcome.
 
 ## Getting Started with Create React App
 
